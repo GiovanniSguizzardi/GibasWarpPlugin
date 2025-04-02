@@ -2,7 +2,7 @@
 
 <h1 align="center">GibasWarps</h1>
 <p align="center">
-  🧭 Plugin de warps personalizadas com menu, ícones, permissões e muito mais!
+  Plugin de warps personalizadas com menu, ícones, permissões e muito mais!
 </p>
 
 <p align="center">
